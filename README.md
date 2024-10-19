@@ -17,7 +17,6 @@ Each Circle represents a variable that will be flagged as `true` or `false`. You
 ---
 
 ## Question 2:  
-**Marks**: 20
 
 You have to implement the following pattern using **for loops** and **if-else statements**. You cannot hardcode the pattern.
 
@@ -32,7 +31,6 @@ Your code should handle all input checks and ensure the pattern is generated gen
 ---
 
 ## Question 3:  
-**Marks**: 20
 
 Develop a restaurant menu of your choice. The menu must have at least **20 items**. The user can order a maximum of **6 items** from the menu.
 
@@ -65,7 +63,6 @@ Octal = 24
 ---
 
 ## Question 5:  
-**Marks**: 10
 
 Write a C++ program that:
 - Takes a **sentence** as input and finds all possible **subwords** (either in reverse or normal order).
@@ -84,7 +81,6 @@ Number of special characters: 1
 ---
 
 ## Question 6:  
-**Marks**: 10
 
 Write code to generate the following pattern, allowing the user to input the **largest number** and the **number of diamonds**:
 
@@ -101,3 +97,5 @@ Largest number: 5
   321123     321123<br>
    2112       2112<br>
     11         11<br>
+
+![Diamond Image not displayed](diamond.png)
