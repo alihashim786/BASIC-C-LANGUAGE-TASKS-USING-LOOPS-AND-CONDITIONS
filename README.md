@@ -6,6 +6,7 @@ This repository contains some logical building c++ tasks that will be you unders
 ## Question 1:  
 
 You will design the architecture below:
+**YOU CAN SEE architecture.png file in this repsoitory**
 
 Each Circle represents a variable that will be flagged as `true` or `false`. You need to:
 1. Ask the user to flag which variable is `true`, and others will be marked `false`.
@@ -14,7 +15,7 @@ Each Circle represents a variable that will be flagged as `true` or `false`. You
    For example, if 9 is marked, its binary is `1001`, so layer 2 variables 1 and 4 will be marked as `1` (true), and variables 2 and 3 will be marked as `0` (false).
 3. Use the switches to implement which variables in Layer 2 are `True` and `False` to mark Layer 3's only variable with the value of the index variable that was turned on.
 
----
+YOU CAN SEE 
 
 ## Question 2:  
 
@@ -27,6 +28,7 @@ You have to implement the following pattern using **for loops** and **if-else st
   - 2 produces double the pattern size.
 
 Your code should handle all input checks and ensure the pattern is generated generically.
+**YOU CAN SEE rocket.png file in this repsoitory**
 
 ---
 
@@ -88,14 +90,35 @@ Write code to generate the following pattern, allowing the user to input the **l
 Number of Diamonds: 2
 Largest number: 5
 
-    11         11<br>  
-   2112       2112<br>
-  321123     321123<br>
- 43211234   43211234<br>
-5432112345 5432112345<br>
- 43211234   43211234<br>
-  321123     321123<br>
-   2112       2112<br>
-    11         11<br>
+**YOU CAN SEE diamond.png file in this repsoitory**
 
-![Diamond Image not displayed](diamond.png)
+
+
+---
+
+## Question 7:  
+**Marks**: 25
+
+Implement encryption of a **sentence/word** of **x length**. The length of the sentence must not exceed **6 characters**. Keep asking for input until a valid input is received.
+
+- Encrypt the sentence using each character's **ASCII value**, separating each ASCII code by your **roll number**.
+
+**Example**:
+Roll number: 1765
+Sentence: SUPER_
+Encrypted: 83 1 85 7 80 6 69 5 82 1 95
+
+
+---
+
+## Question 8:  
+**Marks**: 25
+
+Now implement **decryption** for the previous algorithm.  
+- Separate the **roll number separators** from the ASCII values and convert them back into the original word.
+- Show both the **decrypted word** and the **roll number**.
+
+**Example**:
+Encrypted: 83 1 85 7 80 6 69 5 82 1 95
+Decrypted: SUPER_
+Roll number: 1765
