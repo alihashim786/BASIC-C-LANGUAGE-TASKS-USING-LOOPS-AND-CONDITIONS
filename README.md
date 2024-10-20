@@ -1,7 +1,7 @@
 # BASIC-C-LANGUAGE-TASKS-USING-LOOPS-AND-CONDITIONS
 This repository contains some logical building c++ tasks that will be you understand the syntax and logic and improve your coding skills on c++
 
-### <img src="https://img.icons8.com/color/48/000000/email.png" width="20"/> Contact:
+### <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="20"/> Contact:
 If you have any queries, feel free to email me at [muhammadalihashim514@gmail.com](mailto:muhammadalihashim514@gmail.com) or [i220554@nu.edu.pk](mailto:i220554@nu.edu.pk).
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-hashim-5115882b4) to stay in touch and network.
