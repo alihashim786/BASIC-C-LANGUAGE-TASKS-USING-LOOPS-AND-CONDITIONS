@@ -8,7 +8,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-
 
 ## Question 1:  
 
-You will design the architecture below: <img src="architecture.png" width="20"/>
+You will design the architecture below: 
+
+<img src="architecture.png" width="60"/>
+
 **YOU CAN SEE architecture.png file in this repsoitory**
 
 Each Circle represents a variable that will be flagged as `true` or `false`. You need to:
